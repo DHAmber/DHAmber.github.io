@@ -6,7 +6,7 @@ permalink: /pubs/
 
 <p align="center">
   <a href="https://scholar.google.com/citations?hl=en&user=yRhmVjoAAAAJ">Google Scholar</a>
-#<a href = "https://scholar.google.com/citations?hl=en&user=yRhmVjoAAAAJ"
+
 </p>
 
 
