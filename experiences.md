@@ -20,8 +20,7 @@ A selection of my <b>experiences</b>.
   * **Assistant Professor**
 <br/><br/>
 - **Gate Academy, Mumbai**, (Jun 2015-April 2016)
-  * **Part-Time Faculty**
-    
+  * **Part-Time Faculty**    
 <br/><br/>
 - **IIT Dhanbad**, (Jul 2012-May 2014)
   * **Teaching Assistant**
