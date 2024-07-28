@@ -41,7 +41,7 @@ Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/A
 
 **Jan 2023:**
 *Paper accepted in **Q1:Computer & Security Journal**
-*"FinTem: A secure and non-invertible technique for fingerprint template protection"}, **Amber Hayat**, Syed Sadaf Ali, Ashok Kumar Bhateja, Naoufel Werghi, \href{https://www.sciencedirect.com/science/article/pii/S0167404824001779/}{ Computers \& Security 142 (2024): 103876.}”.
+*"FinTem: A secure and non-invertible technique for fingerprint template protection"}, **Amber Hayat**, Syed Sadaf Ali, Ashok Kumar Bhateja, Naoufel Werghi, Computers \& Security 142 (2024): 103876.”.
 
 **June 2024:**
 *Paper accepted in **ICCCNT 2024**
