@@ -10,37 +10,30 @@ A selection of my <b>experiences</b>.
 
 ## <center>Employments</center>
 
-- **Affle/RevX, Bangalore**, (Jan 2016-Sep 2019)
-  * **Data Scientist**
+- **UPES, Dehradun**, (Aug 2016-Aug 2020)
+  * **Assistant Professor(SS)**
 <br/><br/>
-- **Arvind Ltd, Bangalore**, (Sep 2015-Jan 2016)
-  * **Software Engineer**
+- **PVPPCoE Mumbai**, (April 2015-May 2016)
+  * **Assistant Professor**
 <br/><br/>
-- **Nagarro, Gurgaon**, (Jun 2014-Aug 2015)
-  * **Software Engineer**
+- **SPIT, Mumbai**, (Jul 2014-Oct 2014)
+  * **Assistant Professor**
 <br/><br/>
-- **C-DOT, Delhi**, (Jun 2011-Jul 2011)
-  * **Software Engineer Intern**
-
+- **Gate Academy, Mumbai**, (Jun 2015-April 2016)
+  * **Part-Time Faculty**
+    
+<br/><br/>
+- **IIT Dhanbad**, (Jul 2012-May 2014)
+  * **Teaching Assistant**
+    
 
 ## <center>Teaching Assistant </center>
 
-- Data Mining (UG+PG), IIT Delhi- 2021, 2022
-- Database Management Systems (UG+PG), IIT Delhi- 2020, 2022
-- Introduction to Computer Science (UG) , IIT Delhi- 2020, 2021
-- Programming and Data Structure Lab (UG), DTU Delhi- 2012-2014
+- Biometrics Security (PG), IIT Delhi
+- Cryptography & Network Security, IIT Delhi
+- Analysis & Design of Algorithms, IIT Delhi
+- Data Structures, IIT Delhi
+- Programming and Data Structure Lab (UG), IIT Dhanbad- 2012-2014
 
 
-### Sub/ External Reviewer
-- [Special Interest Group on Management of Data- SIGMOD](https://2023.sigmod.org/), 2023
-- [Web Search and Data Mining- WSDM](https://www.wsdm-conference.org/2023/), 2023
-- [Neural Information Processing Systems- NeurIPS](https://nips.cc/), 2022, 2023
-- [Very Large Databases- VLDB](http://www.vldb.org/), 2022
-- [Knowledge Discovery and Data Mining- KDD](https://www.kdd.org/kdd2020/), 2022, 2023,2024
-- [International Conference on Data Engineering - ICLR](https://iclr.cc/), 2024
-- [International Conference on Data Engineering - ICML](https://icml.cc/), 2024
-- [TKDE Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69), 2021
-- [International Conference on Data Engineering - ICDE](https://www.utdallas.edu/icde/), 2020
-- [International Conferenc on Data Science and Management of Data - CODS-COMAD ](https://cods-comad.in/), 2021,2022,2023
- 
 
