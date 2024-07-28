@@ -14,7 +14,8 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. scholar working under the supervision of Dr. [Ashok Kumar Bhateja](https://csia.iitd.ac.in/index.php/people/faculty) and Dr. [Vireshwar Kumar](https://www.cse.iitd.ernet.in/~viresh/) (Previously Prof Prem Kumar Kalra (https://www.cse.iitd.ac.in/~pkalra/)(Retired)) at the Amar Nath & Shashi Khosla School of Information Technology  at [IIT Delhi](https://sit.iitd.ac.in/),
+I am a Ph.D. scholar working under the supervision of Dr. [Ashok Kumar Bhateja](https://csia.iitd.ac.in/index.php/people/faculty) and Dr. [Vireshwar Kumar](https://www.cse.iitd.ernet.in/~viresh/) (Previously Prof [Prem Kumar Kalra](https://www.cse.iitd.ac.in/~pkalra/)(Retired)) at the Amar Nath & Shashi Khosla School of Information Technology  at [IIT Delhi] (https://sit.iitd.ac.in/)
+
 Research Interests:
 
    **1. Biometrics Security**
