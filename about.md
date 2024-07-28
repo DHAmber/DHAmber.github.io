@@ -14,44 +14,36 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Google Ph.D. fellow working under the supervision of Dr. [Sayan Ranu](http://www.cse.iitd.ac.in/~sayan/) and Dr. [Amitabha Bagchi](http://www.cse.iitd.ac.in/~bagchi/) in the Department of Computer Science and Engineering at [IIT Delhi](https://cse.iitd.ac.in).
-
+I am a Ph.D. scholar working under the supervision of Dr. [Ashok Kumar Bhateja](https://csia.iitd.ac.in/index.php/people/faculty) and Dr. [Vireshwar Kumar](https://www.cse.iitd.ernet.in/~viresh/) (Previously Prof Prem Kumar Kalra (https://www.cse.iitd.ac.in/~pkalra/)(Retired)) at the Amar Nath & Shashi Khosla School of Information Technology  at [IIT Delhi](https://sit.iitd.ac.in/),
 Research Interests:
 
-   **1. Fairness and Bias in Algorithms**
+   **1. Biometrics Security**
 
-   **2. Data Mining, Machine Learning, Graph Neural Network**
+   **2. Data Mining, Machine Learning**
 
-   **3. AI for social good**
+   **3. Template Protection**
    
-   **4. Computational social choice**
+   **4. Spoof Detection**
  
  <br>
  
-Please visit my [Google Scholar profile](https://scholar.google.com/citations?user=mnoyw8MAAAAJ&hl=en) for more details. 
+Please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yRhmVjoAAAAJ) for more details. 
 
 
-Prior to joining IIT Delhi, I worked as a Data Scientist at Affle/RevX Bangalore for around 3.5 years, at Arvind Ltd and Nagarro Software for a year and a half. I received my Master's degree in Computer Science and Engineering from the [Delhi Technological University (Formerly Delhi College of Engineering), Delhi](http://dtu.ac.in/).
+Prior to joining IIT Delhi, I worked as an assistant professor (SS) at UPES, Dehradun, for around 4years, and Prior to that, I served as an Assistant Professor at PVPPCoE Mumbai and SPIT Mumbai for a period of around 1year and 4 months respectively. I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology (Formerly Indian School of Mines), Dhanbad](https://www.iitism.ac.in/).
 
-Please find my [**CV**](https://github.com/anjaliakg17/anjaliakg17.github.io/blob/master/Anjali_Gupta_Resume.pdf).
+Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/Amber_Hayat_REsume(2).pdf).
 
 # <center>News</center>
-**May 2024:**
-*Received **Women in AI award** in category ”AI in Innovation and Research” presented by WiDS Delhi @ Mastercard conference on ”AI Revolution” 2024.
+**Jan 2024:**
+*Received **IEEE Travel Grant**  for attending Winter School in Biometrics in Shenzhen, China, and also  received Outstanding Performance Certificate there.
 
 **Jan 2023:**
-*Paper accepted in **WWW 2023**
-*"Towards Fair Allocation in Social Commerce Platforms”, **Anjali Gupta**, Shreyans Nagori, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit Nadkarni, Narendra Dasararaju and Muthusamy Chelliah, WWW 2023. (AR=19.1%).
+*Paper accepted in **Q1:Computer & Security Journal**
+*"FinTem: A secure and non-invertible technique for fingerprint template protection"}, **Amber Hayat**, Syed Sadaf Ali, Ashok Kumar Bhateja, Naoufel Werghi, \href{https://www.sciencedirect.com/science/article/pii/S0167404824001779/}{ Computers \& Security 142 (2024): 103876.}”.
 
-**Sep 2022:**
-*Received **Google PhD Fellowship** 2022.*
+**June 2024:**
+*Paper accepted in **ICCCNT 2024**
+*"An Approach for Multimodal Biometric Authentication using Genetic Algorithm”, **Amber Hayat**, Abhishek Kumar, Ashok Kumar Bhateja, Saibal Pal, ICCCNT 2024 15th INTERNATIONAL IEEE CONFERENCE ON COMPUTING, COMMUNICATION AND NETWORKING TECHNOLOGIES  (Accepted, To be published at IEEE explore)
 
-**Apr 2022:**
-*Paper accepted in **IJCAI 2022**
-*"Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers”, Ashish Nair, Rahul Yadav, **Anjali Gupta**, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, IJCAI, 2022.
-
-**Nov 2021:**
-*Paper accepted in **AAAI 2022** (AR=4\%, Oral Presentation)
-*"FairFoody: Bringing in Fairness in Food Delivery".  **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi,
-
-    **Research topic**: Algorithmic Fairness in Allocation Problems.
+    **Research topic**: Biometric Template Protection
