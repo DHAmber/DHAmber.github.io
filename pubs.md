@@ -10,9 +10,8 @@ permalink: /pubs/
 
 
 ### Publications
-1. **Anjali Gupta**, Shreyans Nagori, Abhijnan Chakraborty, Rohit Vaish, Sayan Ranu, Prajit Nadkarni, Narendra Dasararaju and Muthusamy Chelliah, "Towards Fair Allocation in Social Commerce Platforms", in **[WWW 2023.]**
-2. **Anjali Gupta**, Rahul Yadav, Ashish Nair, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, "FairFoody: Bringing in Fairness in Food Delivery", in **[AAAI 2022.](http://arxiv.org/abs/2203.08849)**
-3. Ashish Nair, Rahul Yadav, **Anjali Gupta**, Abhijnan Chakraborty, Sayan Ranu, and Amitabha Bagchi, "Gigs with Guarantees: Achieving Fair Wage for Food Delivery Workers", in **[IJCAI 2022.](https://drive.google.com/file/d/1PvcQA084FFbuaPvVilVxRIoiiZo9LDVX/view?usp=sharing)**
-4. Poonam Dhiman, and **Anjali**, "Empirical Validation of Website Quality
-Using Statistical and Machine Learning Methods", in **[IEEE 5th International Conference on Confluence The Next Generation Information Technology, 2014.](http://ieeexplore.ieee.org/document/6949363)**
+1. **Amber Hayat**, Shreyans Nagori, Syed Sadaf Ali, Ashok Kumar Bhateja, Naoufel Werghi, "FinTem: A secure and non-invertible technique for fingerprint template protection," in **[Computers & Security 142 (2024): 103876.]**
+2. **Amber Hayat**, Abhishek Kumar, Ashok Kumar Bhateja, Saibal Pal, "An Approach for Multimodal Biometric Authentication using Genetic Algorithm", in **[ICCCNT 2024.] (Accepted, To be published at IEEE explore)**
+3. Ahmed A. Elngar, Rishabh Kumar, **Amber Hayat** and Prathamesh Churi, "Intelligent System for Skin Disease Prediction using Machine Learning", in **[CONSILIO 2021.](https://iopscience.iop.org/article/10.1088/1742-6596/1998/1/012037/meta/)**
+4. Mayank Goel, **Amber Hayat**, Akhtar Husain, Surjeet Dalal, "Green-IoT (G-IoT) Architectures and Their Applications in the Smart City", Book chapter in Book: Green Internet of Things for Smart Cities Concepts, Implications, and Challenges in **(https://www.taylorfrancis.com/chapters/edit/10.1201/9781003032397-3/green-iot-iot-architectures-applications-smart-city-mayank-goel-amber-hayat-akhtar-husain-surjeet-dalal)**
 
