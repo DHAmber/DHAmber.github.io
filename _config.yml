@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
 # url: "http://shangjingbo1226.github.io"
-url: "http://anjaliakg17.github.io"
+url: "http://amber.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -15,7 +15,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Anjali Gupta
+title: Amber Hayat
 
 # Short description of your site
 description: PhD Student- IIT Delhi
@@ -44,9 +44,9 @@ avatar: "/img/avtar2.jpg"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: <a href='https://www.hit-counts.com/'><img src='http://www.hit-counts.com/counter.php?t=MTQ0OTI4OA==' border='0' alt='logo creation'></a><BR><a href='https://www.glowgraphics.co.uk/'>Anjali Gupta</a>
-  email: "anjaliakg17@gmail.com"
-  facebook: anjaliakg17
-  github: anjaliakg17
+  email: "anz208484@iitd.ac.in"
+  facebook: AmberMoazzamHayat
+  github: DHAmber
   
 # Select which links to show in the footer
 footer-links-active:
@@ -57,7 +57,7 @@ footer-links-active:
   google-plus: false
   github: true
   reddit: false
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -68,7 +68,7 @@ footer-links-active:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
   facebook: true
   google: false
   linkedin: true
