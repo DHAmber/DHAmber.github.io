@@ -33,7 +33,7 @@ Please visit my [Google Scholar profile](https://scholar.google.com/citations?hl
 
 Prior to joining IIT Delhi, I worked as an assistant professor (SS) at UPES, Dehradun, for around 4years, and Prior to that, I served as an Assistant Professor at PVPPCoE Mumbai and SPIT Mumbai for a period of around 1year and 4 months respectively. I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology (Formerly Indian School of Mines), Dhanbad](https://www.iitism.ac.in/).
 
-Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/Amber_Hayat_Resume%20(2).pdf).
+Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/Amber_Hayat_Resume%20.pdf).
 
 # <center>News</center>
 
