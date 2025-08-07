@@ -40,6 +40,9 @@ Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/A
 **May 2025:**
 *Received **IEEE Travel Grant** of 1500 USD for attending and presenting Summer School in Biometrics in Alghero,Italy.
 
+ **July 2025:**
+*Received **Best Presentation Award** at IEEE CIS Summer School on Emerging Trends in Computational Intelligence, Deep Learning, and Large Language Models  in IIT Indore.
+
 **Jan 2024:**
 *Received  **Outstanding Performance Award** and **IEEE Travel Grant** of 1000 USD for attending and presenting Winter School in Biometrics in Shenzhen, China.
 
