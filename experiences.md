@@ -10,19 +10,19 @@ A selection of my <b>experiences</b>.
 
 ## <center>Employments</center>
 
-- **UPES, Dehradun**, (Aug 2016-Aug 2020)
+- **UPES, Dehradun**
   * **Assistant Professor(SS)**
 <br/><br/>
-- **PVPPCoE Mumbai**, (April 2015-May 2016)
+- **PVPPCoE Mumbai**
   * **Assistant Professor**
 <br/><br/>
-- **SPIT, Mumbai**, (Jul 2014-Oct 2014)
+- **SPIT, Mumbai**
   * **Assistant Professor**
 <br/><br/>
-- **Gate Academy, Mumbai**, (Jun 2015-April 2016)
+- **Gate Academy, Mumbai**
   * **Part-Time Faculty**    
 <br/><br/>
-- **IIT Dhanbad**, (Jul 2012-May 2014)
+- **IIT Dhanbad**
   * **Teaching Assistant**
     
 
