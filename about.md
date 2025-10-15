@@ -48,7 +48,7 @@ Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/A
 
 **July 2025:**
 *Paper published in **Q1:Expert Systems with Applications**
-*"[SigTem: A non-invertible technique for online signature template protection”, **Amber Hayat**, Syed Sadaf Ali, Vireshwar Kumar,Expert Systems with Applications (https://www.sciencedirect.com/science/article/pii/S0957417425012680)
+*"[SigTem: A non-invertible technique for online signature template protection”, **Amber Hayat**, Syed Sadaf Ali, Vireshwar Kumar,Expert Systems with Applications(https://www.sciencedirect.com/science/article/pii/S0957417425012680)
 
 **June 2024:**
 *Paper published in **ICCCNT 2024**
