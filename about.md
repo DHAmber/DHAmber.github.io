@@ -14,7 +14,7 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a Ph.D. scholar working under the supervision of Dr. [Ashok Kumar Bhateja](https://csia.iitd.ac.in/index.php/people/faculty) and Dr. [Vireshwar Kumar](https://www.cse.iitd.ernet.in/~viresh/) (Previously Prof [Prem Kumar Kalra](https://www.cse.iitd.ac.in/~pkalra/) (Retired) at the [Amar Nath & Shashi Khosla School of Information Technology](https://sit.iitd.ac.in/)  at [IIT Delhi](https://home.iitd.ac.in/)
+I am a Ph.D. scholar working under the supervision of Dr. [Ashok Kumar Bhateja](https://csia.iitd.ac.in/index.php/people/faculty) and Dr. [Vireshwar Kumar](https://www.cse.iitd.ernet.in/~viresh/), previously Prof [Prem Kumar Kalra](https://www.cse.iitd.ac.in/~pkalra/) (Retired) at the [Amar Nath & Shashi Khosla School of Information Technology](https://sit.iitd.ac.in/)  at [IIT Delhi](https://home.iitd.ac.in/)
 
 Research Interests:
 
@@ -31,20 +31,20 @@ Research Interests:
 Please visit my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=yRhmVjoAAAAJ) for more details. 
 
 
-Prior to joining IIT Delhi, I worked as an assistant professor (SS) at UPES, Dehradun, for around 4years, and Prior to that, I served as an Assistant Professor at PVPPCoE Mumbai and SPIT Mumbai for a period of around 1year and 4 months respectively. I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology (Formerly Indian School of Mines), Dhanbad](https://www.iitism.ac.in/).
+Prior to joining IIT Delhi, I worked as an assistant professor (SS) at UPES, Dehradun, for around 4years, and prior to that, I served as an Assistant Professor at PVPPCoE Mumbai and SPIT Mumbai for a period of around 1year and 4 months, respectively. I received my Master's degree in Computer Science and Engineering from the [Indian Institute of Technology (Formerly Indian School of Mines), Dhanbad](https://www.iitism.ac.in/).
 
 Please find my [**CV**](https://github.com/DHAmber/amber.github.io/blob/master/Amber_Hayat_Resume%20.pdf).
 
 # <center>News</center>
 
 **May 2025:**
-*Received **IEEE Travel Grant** of 1500 USD for attending and presenting Summer School in Biometrics in Alghero,Italy.
+*Received **IEEE Travel Grant** of 1500 USD for attending and presenting Summer School in Biometrics in Alghero, Italy.
 
  **July 2025:**
 *Received **Best Presentation Award** at IEEE CIS Summer School on Emerging Trends in Computational Intelligence, Deep Learning, and Large Language Models  in IIT Indore.
 
 **Jan 2024:**
-*Received  **Outstanding Performance Award** and **IEEE Travel Grant** of 1000 USD for attending and presenting Winter School in Biometrics in Shenzhen, China.
+*Received  **Outstanding Performance Award** and **IEEE Travel Grant** of 1000 USD for attending and presenting the Winter School in Biometrics in Shenzhen, China.
 
 **July 2025:**
 *Paper published in **Q1:Expert Systems with Applications**
