@@ -32,7 +32,7 @@ A selection of my <b>experiences</b>.
 - Cryptography & Network Security, IIT Delhi
 - Analysis & Design of Algorithms, IIT Delhi
 - Data Structures, IIT Delhi
-- Programming and Data Structure Lab (UG), IIT Dhanbad- 2012-2014
+- Programming and Data Structure Lab (UG), IIT Dhanbad
 
 
 
